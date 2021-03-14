@@ -1,0 +1,54 @@
+
+.container#panel1
+{
+	margin-top:4%;
+}
+.container#panel2 .panel-body
+{
+	height: 100%;
+	text-align:center;
+	vertical-align: middle;
+}
+.container#panel2 .panel-body > h1
+{
+	
+	vertical-align: middle;
+	font-family: Montserrat-Bold;
+  	font-size: 100px;
+
+}
+
+.container#panel2 .panel-body > h2
+{
+	
+	vertical-align: middle;
+	font-family: monospace;
+  	font-size: 80px;
+}
+.panel .panel-heading
+{
+	height:10%;
+	text-align:center;
+	vertical-align:middle;
+	font-family: monospace;
+	color:#FFFFFF;
+	background-color:#444;
+}
+
+.panel-body
+{
+	color:#0F0F0F;
+	text-align:left;
+	font-family: Montserrat;
+	font-size: 17px;
+}
+
+.container#panel3
+{
+	width:80%;
+}
+
+.container#panel3 .panel .panel-heading
+{
+	text-align:left;
+}

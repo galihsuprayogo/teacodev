@@ -1,0 +1,16 @@
+.alert#alerts{
+	color:#FFFFFF;
+	background-color:#A2E9DB;
+	font-size:20px;
+	font-family:serif;
+}
+.alert#alertd{
+	color:#FFFFFF;
+	background-color:#EF2849;
+	font-size:20px;
+	font-family:serif;
+}
+.container#alert{
+	width:50%;
+	line-height: 1.5;
+}
